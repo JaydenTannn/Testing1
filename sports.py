@@ -1,4 +1,5 @@
 print("Hello")
 print("This the new line")
 print("Another line")
+print("No secret line")
 print("Secret line")
